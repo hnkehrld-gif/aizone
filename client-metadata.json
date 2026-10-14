@@ -1,6 +1,6 @@
 {
   "client_id": "https://hnkehrld-gif.github.io/aizone/client-metadata.json",
-  "client_name": "Victorinox AI Zone Probe",
+  "client_name": "AI Zone Probe",
   "redirect_uris": [
     "http://127.0.0.1:33418/callback"
   ],
